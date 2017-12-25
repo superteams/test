@@ -1,3 +1,2 @@
-   <?php  
-        	echo '13';
+<?php  
 	echo 'xiaohigh';
