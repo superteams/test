@@ -1,2 +1,2 @@
 <?php
-	echo 'xiaohigh ';
+	echo 'xiaohigh';
